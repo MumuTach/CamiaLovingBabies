@@ -22,4 +22,6 @@ WIX
 - Modify article (quantity, size, color...)
 - Buy article with paypal
 - Access all the appliction pages
-  
+
+## Authors
+MumuTach - Main developer
